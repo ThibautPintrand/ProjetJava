@@ -2,5 +2,8 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="ProjetJava/src"/>
+	<classpathentry kind="lib" path="pdfbox-trunk/pdfbox-app-2.0.8.jar"/>
+	<classpathentry kind="lib" path="ProjetJava/src/acrobat-1.1.jar"/>
+	<classpathentry kind="lib" path="ProjetJava/src/ProjetJava/src/pdfbox-1.2.0.jar" sourcepath="ProjetJava/src/ProjetJava/src/pdfbox-1.2.0.jar"/>
 	<classpathentry kind="output" path="ProjetJava/bin"/>
 </classpath>
